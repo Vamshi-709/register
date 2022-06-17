@@ -1,0 +1,41 @@
+.form {
+  background-color: azure;
+}
+.form-data {
+margin-left: -15%;
+}
+.form-data1 {
+margin-left:-12%;
+}
+.form-data2 {
+margin-left: -12%;
+}
+.form-data3 {
+margin-left: -131%;
+}
+.form-input-btn {
+  color: coral;
+  width: 30%;
+  height: 50px;
+  margin-top: 10px;
+  border-radius: 2px;
+  background: linear-gradient(
+    90deg,
+    rgb(240, 133, 62) 0%,
+    rgb(245, 166, 48) 100%
+  );
+  outline: none;
+  border: none;
+  color: #fff;
+  font-size: 1rem;
+}
+.input{
+    width: 30%;
+}
+.radio {
+  margin-left: 30px;
+
+}
+.inline {
+  margin-right: 16%;
+}

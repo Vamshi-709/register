@@ -1,0 +1,43 @@
+.form {
+    background-color: azure;
+  }
+  .form-data {
+    margin-right:20%;
+  }
+  .form-data1 {
+    margin-right: 13%;
+  }
+  .form-data2 {
+    margin-right: 14%;
+  }
+  .form-input-btn {
+    color: coral;
+    width: 25%;
+    height: 35px;
+    margin-top: 10px;
+    border-radius: 2px;
+    background: linear-gradient(
+      90deg,
+      rgb(240, 133, 62) 0%,
+      rgb(245, 166, 48) 100%
+    );
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 1rem;
+  }
+  .input{
+      width: 30%;
+  }
+  .btn {
+    height: 35px;
+    background-color: rgb(250, 248, 245);
+    outline: none;
+    border: none;
+    color: rgb(32, 28, 28);
+    font-size: 1rem;
+  }
+  img {
+    margin-left: -15%;
+  }
+  
