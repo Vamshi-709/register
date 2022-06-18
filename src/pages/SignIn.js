@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import "./SignIn.css"
-import Main from './Main'
+import Main from '../pages/Main'
 import { Link, useNavigate } from 'react-router-dom'
 import Radio from '@mui/material/Radio';
 import RadioGroup from '@mui/material/RadioGroup';

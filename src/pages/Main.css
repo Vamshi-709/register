@@ -1,18 +1,18 @@
 .form {
     background-color: azure;
   }
-  .form-data {
-    
+  .form1{
+    margin-right:26%;
   }
-  .form-data1 {
-    margin-right: 9%;
+  .form2{
+    margin-right:21%;
   }
-  .form-data2 {
-    margin-right: 10%;
+  .form3{
+    margin-right:22%;
   }
   .form-input-btn {
     color: coral;
-    width: 25%;
+    width: 30%;
     height: 35px;
     margin-top: 10px;
     border-radius: 2px;
@@ -30,7 +30,7 @@
       width: 30%;
   }
   .btn {
-    height: 35px;
+    height: 41px;
     background-color: rgb(250, 248, 245);
     outline: none;
     border: none;

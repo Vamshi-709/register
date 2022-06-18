@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './Main.css'
-import logo512 from './logo512.png'
+import logo512 from '../components/logo512.png'
 import { useNavigate } from 'react-router-dom'
 import Checkbox from '@mui/material/Checkbox';
 
@@ -61,16 +61,16 @@ export default function Main() {
                     />
                 </div><br />
 
-                <label className='form-data2'>Company Name</label><br />
+                <label className='form3'>Company Name</label><br />
                 <input className='input' type="text"  required /><br /><br />
 
-                <label className='form-data'>Email id</label><br />
+                <label className='form1'>Email id</label><br />
                 <input className='input' type="text" validete required id="invalidCheck3" /><br /><br />
 
-                <label className='form-data'>Job title</label><br />
+                <label className='form1'>Job title</label><br />
                 <input type="text" className='input' id="invalidCheck3" required /><br /><br />
 
-                <label className='form-data1'>Years of expirence</label><br />
+                <label className='form2'>Years of expirence</label><br />
                 <input type="number" className='input' required /><br /><br />
                
                 <Checkbox {...label} defaultChecked />
